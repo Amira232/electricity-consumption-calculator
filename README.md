@@ -23,5 +23,3 @@ A Streamlit-based web application that helps users calculate and analyze househo
 - Generates estimated electricity bill
 - Displays appliance-wise consumption analysis
 - Provides visual insights using charts
-
----
